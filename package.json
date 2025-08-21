@@ -23,8 +23,8 @@
   },
   "peerDependencies": {
     "@nozbe/watermelondb": "^0.27.1",
-    "expo-constants": "~16.0.2",
-    "react": "^18.2.0"
+    "expo-constants": "~17.1.7",
+    "react": "^19.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.5.4",
